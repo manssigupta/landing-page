@@ -71,13 +71,13 @@ ul{
     flex-wrap: wrap;
     margin-bottom: 8px;
 }
-.same{
+.above{
     background-color: #3882F6;
     color: #F9FAF8;
-    border: none;
-    border-radius: 16px;
+    border-radius: 8px;
     font-family: Roboto, sans-serif;
     padding: 8px 16px;
+    border-color: #F9FAF8;
 }
 
 
@@ -134,4 +134,44 @@ ul{
     margin-left:600px;
     padding-bottom: 80px;
 }
-
+.signupbox{
+    background-color: #3882F6;
+    display: flex;
+    border-radius: 16px;
+    height: 150px;
+    width: 1100px;
+    margin-left: 400px;
+    margin-top: 50px;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.below{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 12px;
+    font-family: Roboto, sans-serif;
+    padding: 8px 12px;
+    border-color: #F9FAF8;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+.signuptext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+.maintext{
+    font-weight: 900;
+    font-family: Roboto, sans-serif;
+    font-size: 24px;
+    color: #F9FAF8;
+    
+}
+.maintext1{
+    
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    color: #F9FAF8;
+    
+}
