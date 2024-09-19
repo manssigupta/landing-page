@@ -18,8 +18,8 @@ a{
 ul{
     list-style-type: none;
     display: flex;
-    gap:16px;
-    margin-right: 34px;
+    gap:36px;
+    margin-right: 300px;
     
 }
 
@@ -33,7 +33,7 @@ ul{
     font-size: 24px;
     font-weight: bold;
     padding: 8px;
-    margin-left: 34px;
+    margin-left: 240px;
     font-family: Roboto, sans-serif;
 }
 .bottom{
@@ -68,4 +68,12 @@ ul{
     font-family: Roboto, sans-serif;
     flex-wrap: wrap;
     margin-bottom: 8px;
+}
+button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: none;
+    border-radius: 16px;
+    font-family: Roboto, sans-serif;
+    padding: 8px 16px;
 }
