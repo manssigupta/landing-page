@@ -3,6 +3,8 @@
 body{
     margin:0;
     padding: 0;
+    
+    
 }
 .top{
     display: flex;
@@ -69,7 +71,7 @@ ul{
     flex-wrap: wrap;
     margin-bottom: 8px;
 }
-button{
+.same{
     background-color: #3882F6;
     color: #F9FAF8;
     border: none;
@@ -77,3 +79,36 @@ button{
     font-family: Roboto, sans-serif;
     padding: 8px 16px;
 }
+
+
+.infotitle{
+    font-size: 36px;
+    font-family: Roboto, sans-serif;
+    color: #1F2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 48px;
+}
+.maininfo{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    
+    background-color: #E5E7EB;
+    width: 200px;
+    height: 200px;
+    
+    border-radius: 16px;
+    
+}
+.text{
+    width: 200px;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    margin-top: 8px;
+    
+}
+
+
