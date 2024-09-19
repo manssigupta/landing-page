@@ -175,3 +175,15 @@ ul{
     color: #F9FAF8;
     
 }
+.footer{
+    background-color: #1f2937;
+}
+.credits{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    color: #F9FAF8;
+    align-items: center;
+    padding: 32px;
+}
